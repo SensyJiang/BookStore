@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JPA 2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
